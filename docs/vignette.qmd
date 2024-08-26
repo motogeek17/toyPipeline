@@ -2,3 +2,4 @@ This is a vignette.
 Assign Nova to the task of writing this vignette.
 Need to start by finding an example dataset.
 More stuff in order to make a conflict
+Even more stuff for a conflict since branch is not showing.
