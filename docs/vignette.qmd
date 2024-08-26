@@ -1,3 +1,4 @@
 This is a vignette.
 Assign Nova to the task of writing this vignette.
 Need to start by finding an example dataset.
+This is a qmd, so we need a header and we can include R code with output in the vignette.
